@@ -1,3 +1,4 @@
+python>=3.8
 IPython>=8.0.0
 bqplot>=0.12.36
 ipyfilechooser
