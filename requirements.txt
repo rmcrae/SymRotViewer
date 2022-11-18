@@ -1,4 +1,4 @@
-IPython>=8.2.0
+IPython>=8.0.0
 bqplot>=0.12.36
 ipyfilechooser
 ipywidgets>8.0
